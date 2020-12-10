@@ -5,7 +5,9 @@
       <!-- Bar Icon -->
       <input type="checkbox" name="" id="check" />
       <label for="check" class="checkbtn">
-        <i class="fas fa-bars"></i>
+        <i class="fas fa-bars" id="menu-open" @click="menuOpen()"></i>
+        <i class="fas fa-times" @click="hide()" id="menu-close"></i>
+        
       </label>
       <!-- menu -->
       <div class="logo">Font</div>
@@ -29,3 +31,33 @@
     </nav>
   </div>
 </template>
+<script>
+export default {
+    data(){
+        
+        return{
+
+        }
+    },
+    methods: {
+         menuOpen(){
+            document.getElementById('menu-open').style.display = "none";
+            document.querySelector('.fa-times').style.display = "block";
+        },
+        hide(){
+            document.getElementById('menu-close').style.display = "none";
+            document.getElementById('menu-open').style.display = "block";
+
+        }
+       
+    }
+}
+</script>
+<style scoped>
+.fa-times{
+    display: none;
+}
+#menu-open{
+    /* border: 2px solid blue */
+}
+</style>

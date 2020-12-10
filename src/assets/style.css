@@ -76,7 +76,7 @@ nav ul li a.active,nav ul li a:hover{
 }
 .checkbtn{
 	font-size: 24px;
-	color: white;
+	color: var(--green);
 	float: right;
 	line-height: 60px;
 	margin-right: 20px;
@@ -525,6 +525,17 @@ nav ul li a.active,nav ul li a:hover{
 	.checkbtn{
 		display: block;
 	}
+	#check .fas-bars{
+		color: var(--green);
+	}
+	.fa-times{
+		position: absolute;
+		z-index: 11;
+		right: 35px;
+		top: 30px;
+		/* border: 2px solid red; */
+		line-height: 60px;
+	}
 	div.logo{
 		color: white;
 		font-size: 20px;
@@ -535,18 +546,28 @@ nav ul li a.active,nav ul li a:hover{
 	}
 	nav ul{
 		position: fixed;
-		width: 100%;
+		width: 80%;
 		height: 100vh;
-		background: #2c3e50;
-		top: 60px;
-		left: -100%;
+		background: var(--lightest-navy);
+		top: 0px;
+		right: -100%;
+		z-index: 10;
 		text-align: center;
 		transition: all .5s;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		box-shadow: -10px 0px 30px -15px var(--navy-shadow)
 	}
 	nav ul li{
-		display: block;
+		display: flex;
 		margin: 10px 0;
 		line-height: 30px;
+		flex-direction: column;
+		flex-wrap: wrap;
+		border: 2px solid red;
+		width: 60%;
 	}
 	nav ul li a{
 		font-size: 14px;
@@ -554,10 +575,10 @@ nav ul li a.active,nav ul li a:hover{
 	}
 	a.active, a:hover{
 		background: none;
-		color: #0082e6;
+		color: var(--green);
 	}
 	#check:checked ~ ul{
-		left: 0;
+		right: -15%;
 		transition: 
 	}
 }
