@@ -47,7 +47,6 @@ export default {
         hide(){
             document.getElementById('menu-close').style.display = "none";
             document.getElementById('menu-open').style.display = "block";
-
         }
        
     }
@@ -58,6 +57,6 @@ export default {
     display: none;
 }
 #menu-open{
-    /* border: 2px solid blue */
+    margin-top: 15px;
 }
 </style>

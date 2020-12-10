@@ -529,12 +529,10 @@ nav ul li a.active,nav ul li a:hover{
 		color: var(--green);
 	}
 	.fa-times{
-		position: absolute;
+		position: fixed;
 		z-index: 11;
 		right: 35px;
 		top: 30px;
-		/* border: 2px solid red; */
-		line-height: 60px;
 	}
 	div.logo{
 		color: white;
@@ -572,6 +570,12 @@ nav ul li a.active,nav ul li a:hover{
 	nav ul li a{
 		font-size: 14px;
 		padding: 5px 10px;
+		flex-direction: row;
+	}
+	nav ul li a span{
+		width: 100%;
+		border: 2px solid blue;
+		/* flex-direction: row; */
 	}
 	a.active, a:hover{
 		background: none;
