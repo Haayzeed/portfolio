@@ -11,7 +11,7 @@
       </label>
       <!-- menu -->
       <div class="logo">Font</div>
-      <ul>
+      <ul class="desktop-menu-bar">
         <li>
           <a class="text-decoration-none" href=""><span>01. </span>About</a>
         </li>
@@ -25,6 +25,23 @@
         </li>
         <li>
           <a class="text-decoration-none" href=""><span>04. </span>Contact</a>
+        </li>
+        <li><a class="btn resume-btn btn-lg" href="">Resume</a></li>
+      </ul>
+      <ul class="mobile-menu-bar">
+        <li>
+          <a class="text-decoration-none" href=""><span>01. </span> <br>  About</a>
+        </li>
+        <li>
+          <a class="text-decoration-none" href=""
+            ><span>02. </span><br>Experience</a
+          >
+        </li>
+        <li>
+          <a class="text-decoration-none" href=""><span>03. </span><br>Work</a>
+        </li>
+        <li>
+          <a class="text-decoration-none" href=""><span>04. </span><br>Contact</a>
         </li>
         <li><a class="btn resume-btn btn-lg" href="">Resume</a></li>
       </ul>

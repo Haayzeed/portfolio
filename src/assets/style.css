@@ -30,6 +30,9 @@ html{
 ::-moz-selection{
 	background: var(--slate);
 }
+.mobile-menu-bar{
+	display: none;
+}
 nav{
 	height: 60px;
 	width: 100%;
@@ -522,6 +525,12 @@ nav ul li a.active,nav ul li a:hover{
 	}
 }
 @media(max-width: 858px){
+	.mobile-menu-bar{
+		display: block;
+	}
+	.desktop-menu-bar{
+		display: none;
+	}
 	.checkbtn{
 		display: block;
 	}
@@ -542,7 +551,7 @@ nav ul li a.active,nav ul li a:hover{
 		font-weight: bold;
 		float: left;
 	}
-	nav ul{
+	nav ul.mobile-menu-bar{
 		position: fixed;
 		width: 80%;
 		height: 100vh;
@@ -563,8 +572,6 @@ nav ul li a.active,nav ul li a:hover{
 		margin: 10px 0;
 		line-height: 30px;
 		flex-direction: column;
-		flex-wrap: wrap;
-		border: 2px solid red;
 		width: 60%;
 	}
 	nav ul li a{
@@ -574,8 +581,6 @@ nav ul li a.active,nav ul li a:hover{
 	}
 	nav ul li a span{
 		width: 100%;
-		border: 2px solid blue;
-		/* flex-direction: row; */
 	}
 	a.active, a:hover{
 		background: none;
