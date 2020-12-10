@@ -7,7 +7,7 @@
 				</div>
 				<div class="row px-3 left-project">
 					<div class="col-md-7 project-image">
-						<img src="@/assets/avatar.png" class="img-fluid" alt="project image">
+						<img src="@/assets/shortner.png" class="img-fluid" alt="project image">
 					</div>
 					<div class="col-md-5 project-desc">
 						<p class="text-capitalize text-right mb-0 featured">Featured Project</p>
@@ -46,12 +46,12 @@
 						</ul>
 					</div>
 					<div class="col-md-7 project-image">
-						<img src="@/assets/avatar.png" class="img-fluid" alt="project image">
+						<img src="@/assets/tracker.png" class="img-fluid" alt="project image">
 					</div>
 				</div>
 				<div class="row px-3 left-project">
 					<div class="col-md-7 project-image">
-						<img src="@/assets/avatar.png" class="img-fluid" alt="project image">
+						<img src="@/assets/country.png" class="img-fluid" alt="project image">
 					</div>
 					<div class="col-md-5 project-desc">
 						<p class="text-capitalize text-right mb-0 featured">Featured Project</p>
