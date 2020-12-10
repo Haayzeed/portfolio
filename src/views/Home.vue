@@ -5,6 +5,9 @@
     <about></about>
     <work></work>
     <mainProject></mainProject>
+    <noteworthy></noteworthy>
+    <contact></contact>
+    <bottomFooter></bottomFooter>
   </div>
 </template>
 
@@ -14,6 +17,9 @@ import description from '@/components/description.vue'
 import about from '@/components/about.vue'
 import work from '@/components/work.vue'
 import mainProject from '@/components/main-project.vue'
+import noteworthy from '@/components/noteworthy.vue'
+import contact from '@/components/contact.vue'
+import bottomFooter from '@/components/bottom-footer.vue'
 
 export default {
   name: 'Home',
@@ -22,7 +28,10 @@ export default {
     description,
     about,
     work,
-    mainProject
+    mainProject,
+    noteworthy,
+    contact,
+    bottomFooter
   }
 }
 </script>
