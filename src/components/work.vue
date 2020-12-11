@@ -1,7 +1,7 @@
 <template>
   <div class="home">
 		<!-- work -->
-		<section class="container work">
+		<section class="container work" id="experience">
 			<div class="row">
 				<div class="col-md-12">
 					<h3><span>02. </span>Where I've Worked</h3>

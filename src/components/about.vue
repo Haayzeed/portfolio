@@ -1,7 +1,7 @@
 <template>
   <div class="home">
 <!-- about -->
-		<section class="container about">
+		<section class="container about" id="about">
 			<div class="row">
 				<div class="col-md-12">
 					<h3><span class="mr-2">01. </span>About Me</h3>

@@ -588,7 +588,7 @@ nav ul li a.active,nav ul li a:hover{
 	}
 	#check:checked ~ ul{
 		right: -15%;
-		transition: 
+		transition: ;
 	}
 }
 @media(max-width: 800px){

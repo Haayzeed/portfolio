@@ -1,7 +1,7 @@
 <template>
   <div class="home">
    <!-- Contact -->
-		<section class="container contact">
+		<section class="container contact" id="contact">
 			<div class="row">
 				<div class="col-md-12">
 					<h3 class="text-center"><span>04. What's Next ?</span></h3>

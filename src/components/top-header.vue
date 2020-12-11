@@ -13,18 +13,18 @@
       <div class="logo">Font</div>
       <ul class="desktop-menu-bar">
         <li>
-          <a class="text-decoration-none" href=""><span>01. </span>About</a>
+          <a class="text-decoration-none" href="#about"><span>01. </span>About</a>
         </li>
         <li>
-          <a class="text-decoration-none" href=""
+          <a class="text-decoration-none" href="#experience"
             ><span>02. </span>Experience</a
           >
         </li>
         <li>
-          <a class="text-decoration-none" href=""><span>03. </span>Work</a>
+          <a class="text-decoration-none" href="#work"><span>03. </span>Work</a>
         </li>
         <li>
-          <a class="text-decoration-none" href=""><span>04. </span>Contact</a>
+          <a class="text-decoration-none" href="#contact"><span>04. </span>Contact</a>
         </li>
         <li><a class="btn resume-btn btn-lg" href="">Resume</a></li>
       </ul>

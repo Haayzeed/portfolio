@@ -1,6 +1,6 @@
 <template>
   <div class="home"><!--projects--> 
-		<section class="container main-project">
+		<section class="container main-project" id="work">
 			<div class="row">
 				<div class="col-md-12">
 					<h3><span>03. </span>Some Things I've Built</h3>
