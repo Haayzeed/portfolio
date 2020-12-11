@@ -9,31 +9,35 @@
 				<div class="work-holder row">
 					<div class="col-md-2 work-tab">
 						<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-							<a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Home</a>
-							<a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</a>
-							<a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</a>
-							<a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</a>
+							<a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">ECX</a>
+							<a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Zealarax Technologies</a>
+							<!-- <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</a> -->
+							<!-- <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</a> -->
 						</div>
 					</div>
 					<div class="col-md-10">
 						<div class="tab-content pl-2" id="v-pills-tabContent">
 							<div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                <h6 style="color: var(--white)">Frontend Developer  <span style="color: var(--green)">@ ECX</span> </h6>
+                <p>August 2020 - September 2020</p>
 								<ul class="fa-ul pl-0 ml-3">
-									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>HTML & (S)CSS</li>
-									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>JavaScript (ES6+)</li>
-									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Bootstrap</li>
-									<li>M<span class="fa-li"><i class="fas fa-caret-right"></i></span>aterialize CSS</li>
+									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Collaborated with a team of Developers to build mini applications</li>
+									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Implementation of visual elements designed by UI Designers</li>
+									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Brainstormed ideas for my group during the internship</li>
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                <h6 style="color: var(--white)">Frontend Developer  <span style="color: var(--green)">@ Zealarax Technologies</span> </h6>
+                <p>October 2018 - June 2020</p>
 								<ul class="fa-ul pl-0 ml-3">
-									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>HTML & (S)CSS</li>
-									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>JavaScript (ES6+)</li>
-									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Bootstrap</li>
-									<li>M<span class="fa-li"><i class="fas fa-caret-right"></i></span>aterialize CSS</li>
+									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Working hand-in-hand with UI Designers in achieving great designs of web apps.</li>
+									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Implementation of responsive web design which renders well across multiple devices.</li>
+									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Translation of UI/UX Designs into codes to produce awesome interfaces for users.</li>
+									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Building reusable codes.</li>
+									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Preparation of documentation for applications developed.</li>
 								</ul>
 							</div>
-							<div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+							<!-- <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
 								<ul class="fa-ul pl-0 ml-3">
 									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>HTML & (S)CSS</li>
 									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>JavaScript (ES6+)</li>
@@ -48,7 +52,7 @@
 									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Bootstrap</li>
 									<li>M<span class="fa-li"><i class="fas fa-caret-right"></i></span>aterialize CSS</li>
 								</ul>
-							</div>
+							</div> -->
 						</div>
 					</div>					
 				</div>
