@@ -23,7 +23,7 @@
 								<ul class="fa-ul pl-0 ml-3">
 									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Collaborated with a team of Developers to build mini applications</li>
 									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Implementation of visual elements designed by UI Designers</li>
-									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Brainstormed ideas for my group during the internship</li>
+									<!-- <li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Brainstormed ideas for my group during the internship</li> -->
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
@@ -84,12 +84,7 @@
 								<li>M<span class="fa-li"><i class="fas fa-caret-right"></i></span>aterialize CSS</li>
 							</ul>
 						</div>
-						<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+						<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">The challenge is to integrate with the shrtcode API to create shortened URLs and display them like in the designs</div>
 						<div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
