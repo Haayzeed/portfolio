@@ -12,7 +12,7 @@
 					<div class="col-md-5 project-desc">
 						<p class="text-capitalize text-right mb-0 featured">Featured Project</p>
 						<h4 class="font-weight-bold text-right mt-0">URL Shortner</h4>
-						<p class="text-right full-project-desc p-3">A URL Shortner App built to enable shortening of URL easier. It was integrated with the shrtcode API to create shortened URLs and display them.</p>
+						<p class="text-right full-project-desc p-3">A URL Shortner App built to make shortening of URL easier. It was integrated with the shrtcode API to create shortened URLs and display them. UI designed by FrontendMentor.</p>
 						<ul class="project-tools">
 							<li>VueJS</li>
 							<li>Boostrap</li>
@@ -28,7 +28,7 @@
 					<div class="col-md-5 project-desc">
 						<p class="text-capitalize text-left mb-0 featured">Featured Project</p>
 						<h4 class="font-weight-bold text-left mt-0">IP Address Tracker</h4>
-						<p class="text-left full-project-desc p-3">An application that help track your location and the locations of other users through IP Address via the use of IP Geolocation API and display it on a map with the help of a map library (LeafletJS).</p>
+						<p class="text-left full-project-desc p-3">An application that help track your location and the locations of other users through IP Address via the use of IP Geolocation API and display it on a map with the help of a map library (LeafletJS). UI designed by FrontendMentor.</p>
 						<ul class="project-tools">
 							<li>VueJS</li>
 							<li>Flexbox</li>
@@ -51,12 +51,12 @@
 					<div class="col-md-5 project-desc">
 						<p class="text-capitalize text-right mb-0 featured">Featured Project</p>
 						<h4 class="font-weight-bold text-right mt-0">REST Countries</h4>
-						<p class="text-right full-project-desc p-3">A closer look at countries and little detail about them such as population, languages, currency, border countries, etc. with a color switcher to switch themes. Informations gotten from the REST Countries API</p>
+						<p class="text-right full-project-desc p-3">A closer look at countries and little detail about them such as population, languages, currency, border countries, etc. with a color switcher to switch themes. Informations gotten from the REST Countries API. UI designed by FrontendMentor.</p>
 						<ul class="project-tools">
 							<li>Vue JS</li>
-							<li>Vue Router</li>
 							<li>Boostrap</li>
 							<li>REST Countries API</li>
+							<li>JS LocalStorage</li>
 						</ul>
 						<ul class="project-link">
 							<li><a target="_blank" href="https://github.com/Haayzeed/country-api"><i class="fab fa-github"></i></a></li>
