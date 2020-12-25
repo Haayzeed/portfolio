@@ -14,7 +14,7 @@
 					<p>Developed by Dosunmu Afeez &copy; 2020</p>
 				</div>
 				<div class="col-md-6">
-					<p class="text-right">Inspired by <a href="" target="_blank" class="font-weight-bold">Brittany Chiang</a></p>
+					<p class="text-right">Inspired by <a href="https://brittanychiang.com" target="_blank" class="font-weight-bold">Brittany Chiang</a></p>
 				</div>
 			</div>
 		</section>
