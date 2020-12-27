@@ -3,7 +3,7 @@
 <!-- about -->
 		<section class="container about" id="about">
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-12 about-title">
 					<h3><span class="mr-2">01. </span>About Me</h3>
 				</div>
 				<div class="col-md-7 about-me">
