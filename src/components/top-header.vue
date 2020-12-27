@@ -11,7 +11,7 @@
       </label>
       <!-- menu -->
       <div class="logo">Font</div>
-      <ul class="desktop-menu-bar">
+      <ul class="desktop-menu-bar menu-animation">
         <li>
           <a class="text-decoration-none" href="#about"><span>01. </span>About</a>
         </li>
@@ -28,7 +28,7 @@
         </li>
         <li><a class="btn resume-btn btn-lg" href="">Resume</a></li>
       </ul>
-      <ul class="mobile-menu-bar">
+      <ul class="mobile-menu-bar menu-animation">
         <li>
           <a class="text-decoration-none" href=""><span>01. </span> <br>  About</a>
         </li>
