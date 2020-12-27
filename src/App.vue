@@ -20,7 +20,7 @@ export default {
       .from(".description .name-subtitle", {opacity: 0, ease: "back", y: 12, delay: 0 })
       .from(".description .name-desc", {opacity: 0, ease: "back", x: 12,delay: 0 })
       .from(".description .resume-btn", {opacity: 0, ease: "back", x: -12 })
-      .from(".about-title", {opacity: 0, ease: "back", x: -12 })
+      .from(".about-title", {opacity: 0, ease: "back", y: 100 })
       .from(".about-me", {opacity: 0, ease: "back", x: -12 })
       .from(".about-image", {opacity: 0, ease: "back", scale: 0.6 })
 
