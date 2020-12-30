@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <div class="cursor"></div>
     <!-- Main -->
     <nav>
       <!-- Bar Icon -->
@@ -64,8 +65,15 @@ export default {
         hide(){
             document.getElementById('menu-close').style.display = "none";
             document.getElementById('menu-open').style.display = "block";
+        },
+        mouseCursorMove(e){
+          let cursors = document.querySelector('.cursor');
+          cursors.style.top = e.pageY + 'px';
+          cursors.style.left = e.pageX + 'px';
         }
-       
+    },
+    mounted() {
+      window.addEventListener('mousemove', this.mouseCursorMove);
     }
    
 }
