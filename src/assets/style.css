@@ -479,6 +479,9 @@ nav ul li a.active,nav ul li a:hover{
 	
 }
 @media(max-width: 1024px){
+	.cursor{
+		display: none !important;
+	}
 	.container{
 		flex-basis: 90%;
 		max-width: 90%;
