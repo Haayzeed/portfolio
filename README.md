@@ -1,5 +1,5 @@
 # my portfolio
-
+This is my portfolio. It contains list of projects I have developed personally and cool stuffs I am working on. The theme/template was inspired by  <a href="https://brittanychiang.com">Brittany Chiang</a>
 ## Project setup
 ```
 npm install
