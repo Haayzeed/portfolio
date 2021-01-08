@@ -11,7 +11,7 @@
 					</ul>
 				</div>
 				<div class="col-md-6">
-					<p>Developed by Dosunmu Afeez &copy; 2020</p>
+					<p>Developed by Dosunmu Afeez &copy; 2021</p>
 				</div>
 				<div class="col-md-6">
 					<p class="text-right">Inspired by <a href="https://brittanychiang.com" target="_blank" class="font-weight-bold">Brittany Chiang</a></p>
