@@ -17,17 +17,12 @@
 }
 html{
 	scroll-behavior: smooth;
-	cursor: none !important;
 }
 body{
 	background: var(--navy);
 	font-family: 'Poppins', sans-serif;
 	overflow-x: hidden;
 	-webkit-font-smoothing: antialiased;
-	cursor: none !important;
-}
-a:hover, .btn:hover, button:hover{
-	cursor: none !important;
 }
 ::selection{
 	background: var(--slate);
@@ -849,15 +844,3 @@ nav ul li a.active,nav ul li a:hover{
 	}
 }
 /*=========================================End of Media Quesries======================================*/
-
-/* =========Cursor Change Style==================== */
-.cursor{
-    width: 1.5rem;
-    height: 1.5rem;
-    border:3px solid var(--green);
-    border-radius: 50%;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    pointer-events: none;
-    z-index: 100;
-  }
