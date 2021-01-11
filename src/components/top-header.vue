@@ -26,7 +26,7 @@
         <li>
           <a class="text-decoration-none" href="#contact"><span>04. </span>Contact</a>
         </li>
-        <li><a class="btn resume-btn btn-lg" href="">Resume</a></li>
+        <li><a class="btn resume-btn btn-lg" target="_blank" href="https://drive.google.com/file/d/1eMz2R0VOkwTNP_Kwq6Ez-DrWr8jXdS6n/view?usp=sharing">Resume</a></li>
       </ul>
       <ul class="mobile-menu-bar menu-animation">
         <li>
@@ -43,7 +43,7 @@
         <li>
           <a class="text-decoration-none" href=""><span>04. </span><br>Contact</a>
         </li>
-        <li><a class="btn resume-btn btn-lg" href="">Resume</a></li>
+        <li><a class="btn resume-btn btn-lg" target="_blank" href="https://drive.google.com/file/d/1eMz2R0VOkwTNP_Kwq6Ez-DrWr8jXdS6n/view?usp=sharing">Resume</a></li>
       </ul>
     </nav>
   </div>
