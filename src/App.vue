@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 	<section class="container-fluid" id="home">
-
+    
     <router-view/>
     </section>
   </div>
