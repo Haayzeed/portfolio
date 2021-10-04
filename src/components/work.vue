@@ -11,8 +11,6 @@
 						<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 							<a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">ECX</a>
 							<a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Zealarax Technologies</a>
-							<!-- <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">Messages</a> -->
-							<!-- <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">Settings</a> -->
 						</div>
 					</div>
 					<div class="col-md-10">
@@ -21,7 +19,6 @@
 								<ul class="fa-ul pl-0 ml-3">
 									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Collaborated with a team of Developers to build mini applications</li>
 									<li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Implementation of visual elements designed by UI Designers</li>
-									<!-- <li><span class="fa-li"><i class="fas fa-caret-right"></i></span>Brainstormed ideas for my group during the internship</li> -->
 								</ul>
 							</div>
 							<div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab"><h6 style="color: var(--white)">Frontend Developer  <span style="color: var(--green)">@ Zealarax Technologies</span> </h6><p>October 2018 - June 2020</p>

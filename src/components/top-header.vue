@@ -51,20 +51,19 @@
 <script>
 export default {
     data(){
-        
-        return{
+      return{
 
-        }
+      }
     },
     methods: {
-         menuOpen(){
-            document.getElementById('menu-open').style.display = "none";
-            document.querySelector('.fa-times').style.display = "block";
-        },
-        hide(){
-            document.getElementById('menu-close').style.display = "none";
-            document.getElementById('menu-open').style.display = "block";
-        }
+      menuOpen(){
+        document.getElementById('menu-open').style.display = "none";
+        document.querySelector('.fa-times').style.display = "block";
+      },
+      hide(){
+        document.getElementById('menu-close').style.display = "none";
+        document.getElementById('menu-open').style.display = "block";
+      }
     }
 }
 </script>
